@@ -1,0 +1,156 @@
+/*
+Theme Name: テーマの名前（必須）
+Theme URL: テーマのサイトのURI
+Description: テーマの説明
+Author: 作者の名前
+Version: テーマのバージョン
+Tags: テーマの特徴を表すタグ（カンマ区切り/オプション）
+License: テーマのライセンス
+License URI: テーマのライセンスのURI
+*/
+
+.header-contents {
+  width: 100vw;
+  height: 50px;
+  display: flex;
+}
+
+.header-left {
+  width: 250px;
+  height: 220px;
+  background-color: rgb(233, 250, 241);
+  border: 1px solid grey;
+  z-index: 2;
+}
+
+.title-logo {
+  margin: 10px;
+  color: grey;
+  z-index: 1;
+}
+
+.header-right {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  border: 1px solid grey;
+}
+
+.text {
+  width: 200px;
+  color: gray;
+  font-size: 12px;
+  margin: 5px 0 5px 15px;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.nav-lists {
+  color: grey;
+  width: 400px;
+  display: flex;
+  margin: 13px;
+  float: right;
+  justify-content: space-evenly;
+  list-style: none;
+  direction: none !important;
+}
+
+.main-contents {
+  width: 100vw;
+  height: 1250px;
+  background-color: rgb(226, 233, 255);
+}
+
+.slider-content {
+  width: 100vw;
+  height: 500px;
+  padding-top: 2px;
+  background-color: rgb(194, 211, 186);
+}
+
+.bx-wrapper {
+  margin: 0 !important;
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  background: none !important;
+}
+
+.middle-contents{
+  display: flex;
+}
+
+.sidebar-top {
+  width: 400px;
+  height: 170px;
+  background-color: rgb(255, 238, 254);
+}
+
+.middle-content {
+  width: 100%;
+  height: 170px;
+  background-color: rgb(236, 236, 236);
+}
+
+.m-content-title {
+  color: grey;
+  font-size: 20px;
+  margin: 100px 500px;
+}
+
+.bottom-contents {
+  display: flex;
+}
+
+.sidebar-main {
+  width: 400px;
+  height: 578px;
+  background-color: seashell;
+}
+
+.sidebar-img {
+  margin: 20px 0 0 30px;
+
+}
+
+.bottom-content {
+  width: 100%;
+  height: 300px;
+}
+
+.footer {
+  width: 100vw;
+  height: 250px;
+  display: flex;
+}
+
+.footer-left {
+  width: 50%;
+  height: 250px;
+}
+
+.bottom-lists{
+  margin-top: 40px;
+}
+
+.bottom-list {
+  color: grey;
+  font-size: 15px;
+  list-style: none;
+  margin: 10px 100px;
+}
+
+.footer-right {
+  width: 50%;
+  height: 220px;
+}
+
+.map {
+  width: 250px;
+  height: 230px;
+  margin: 10px 0 0 370px;
+}

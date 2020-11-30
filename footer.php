@@ -10,10 +10,10 @@
       <div class='footer'>
         <div class='footer-left'>
           <ul class='bottom-lists'>
-            <li class='bottom-list'>HOME</li>
-            <li class='bottom-list'>ABOUT</li>
-            <li class='bottom-list'>MENU</li>
-            <li class='bottom-list'>ACCESS</li>
+            <li class='bottom-list'>TEXT</li>
+            <li class='bottom-list'>TEXT</li>
+            <li class='bottom-list'>TEXT</li>
+            <li class='bottom-list'>TEXT</li>
           </ul>
         </div>
         <div class='footer-right'>

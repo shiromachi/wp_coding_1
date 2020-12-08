@@ -24,9 +24,7 @@ License URI: テーマのライセンスのURI
 }
 
 .title-logo {
-  margin: 10px;
   color: grey;
-  z-index: 1;
 }
 
 .header-right {

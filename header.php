@@ -21,7 +21,7 @@
       <div class='header-contents'>
         <div class='header-left'>
           <div class='title-logo'>
-            <img src="<?php echo get_template_directory_uri(); ?>/images/no_image.png" alt="" width="200px" height="200px">
+            <img src="<?php echo get_template_directory_uri(); ?>/images/main_logo.png" alt="" width="200px" height="200px">
           </div>
         </div>
         <div class='header-right'>
